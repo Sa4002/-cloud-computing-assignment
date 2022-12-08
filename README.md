@@ -1,2 +1,9 @@
-# -cloud-computing-assignment
-Report of cloud computing
+# Cloud Computing Assignment
+
+#Company Backgroud
+
+#Current IT SetUp
+
+#Recomandations
+
+Reference
