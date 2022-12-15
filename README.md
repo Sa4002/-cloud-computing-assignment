@@ -34,3 +34,5 @@ Based on the needs and current setup of Sweet Treats Bakery, we recommend the fo
 •	Data storage: Using a cloud storage solution will provide increased reliability and scalability compared to a physical server. This will ensure that their data is always available and can easily handle increased demand.
 •	Applications: Using a cloud platform solution will provide the ability to easily deploy and manage their applications without the need for a physical server. This will save time and resources for the business, and allow for easier updates and maintenance.
 •	Website hosting: Using a cloud hosting solution will provide increased reliability and scalability compared to a physical server. This will ensure that their website is always available and can easily handle increased traffic.
+----https://github.com/Sa4002/sai.git
+
